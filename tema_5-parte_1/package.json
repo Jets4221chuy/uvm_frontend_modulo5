@@ -1,0 +1,30 @@
+{
+  "name": "modulo5",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js --mode development"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^7.1.2",
+    "csv-loader": "^3.0.5",
+    "json5": "^2.2.3",
+    "sass": "^1.94.0",
+    "sass-loader": "^16.0.6",
+    "style-loader": "^4.0.0",
+    "ts-loader": "^9.5.4",
+    "typescript": "^5.9.3",
+    "webpack": "^5.102.1",
+    "webpack-cli": "^6.0.1",
+    "yamjs": "^0.6.11",
+    "yamljs": "^0.3.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
