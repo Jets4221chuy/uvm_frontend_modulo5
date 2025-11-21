@@ -1,0 +1,14 @@
+- id: 1
+  nombre: "Escritorios"
+  categoria: "Oficina"
+  stock: 10
+
+- id: 2
+  nombre: "Computadoras"
+  categoria: "Tecnología"
+  stock: 5
+
+- id: 3
+  nombre: "Cafeteras"
+  categoria: "Alimentos"
+  stock: 20
